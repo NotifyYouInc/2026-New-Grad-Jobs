@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Fairfield, California, United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000106385865-specialist-i-quality-assurance) |
 

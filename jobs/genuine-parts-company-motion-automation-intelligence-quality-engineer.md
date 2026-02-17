@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Motion-Automation-Intelligence--Quality-Engineer_R26_0000003058-1) |
 

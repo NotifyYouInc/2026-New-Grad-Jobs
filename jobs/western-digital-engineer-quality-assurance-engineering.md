@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000106424425-engineer-quality-assurance-engineering) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/DevOps-Software-Engineer--Hybrid-_R10221219) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-01-29.
+This devops engineer position at Northrop Grumman was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

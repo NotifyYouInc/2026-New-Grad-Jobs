@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Faridabad, Haryana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Automation-Engineer_JR00021474) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-01-30.
+This devops engineer position at ABB was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

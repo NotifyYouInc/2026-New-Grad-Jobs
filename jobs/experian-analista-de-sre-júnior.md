@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Blumenau, Santa Catarina, Brazil |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000106596121-analista-de-sre-junior) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-01-30.
+This devops engineer position at Experian was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

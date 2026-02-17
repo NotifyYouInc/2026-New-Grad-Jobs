@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Hong Kong |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000106472796-programmer-digital) |
 
 ## About This Role
 
-This software engineer position at AECOM was posted on 2026-01-30.
+This devops engineer position at AECOM was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

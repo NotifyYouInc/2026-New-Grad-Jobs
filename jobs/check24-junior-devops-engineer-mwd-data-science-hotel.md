@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000106451899-junior-devops-engineer-mwd-data-science-hotel) |
 
 ## About This Role
 
-This software engineer position at CHECK24 was posted on 2026-01-30.
+This devops engineer position at CHECK24 was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

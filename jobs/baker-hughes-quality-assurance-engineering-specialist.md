@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Quality-Assurance-Engineering-Specialist_R160401) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BlackBerry](https://scoutify.ai/companies/blackberry?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Dusseldorf-Germany/Junior-QA-Automation-Engineer--m-f-d-_20260038-1) |
 
 ## About This Role
 
-This software engineer position at BlackBerry was posted on 2026-01-30.
+This devops engineer position at BlackBerry was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Gurgaon-India/QA-Analyst_JR111505) |
 

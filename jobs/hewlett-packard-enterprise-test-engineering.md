@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Wisconsin, US |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Test-Engineering_1200691) |
 

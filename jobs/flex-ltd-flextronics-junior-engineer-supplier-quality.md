@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Junior-Engineer---Supplier-Quality_WD214340) |
 

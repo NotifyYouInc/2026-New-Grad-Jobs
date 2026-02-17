@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Lawrence, Kansas, United States |
-| Category | Product Marketing Management |
+| Category | Product Marketing |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/MA---Lawrence/Engineer-I---Product-Marketing_R448-26) |
 
 ## About This Role
 
-This product marketing management position at Microchip Technology was posted on 2026-01-29.
+This product marketing position at Microchip Technology was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

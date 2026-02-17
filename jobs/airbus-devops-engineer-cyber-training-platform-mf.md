@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Madrid-Area/DevOPS-Engineer---Cyber-Training-Platform--m-f-_JR10384722-1) |
 
 ## About This Role
 
-This software engineer position at Airbus was posted on 2026-01-29.
+This devops engineer position at Airbus was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

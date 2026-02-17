@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128538519004947142-software-engineer-infrastructure-google-ads?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-01-30.
+This devops engineer position at Google was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

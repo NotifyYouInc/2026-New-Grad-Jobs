@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4741081101) |
 

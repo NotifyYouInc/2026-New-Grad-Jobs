@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Burnsville, Minnesota, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---MN---ANY-CITY/Junior-Network-Engineer_51571737) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-01-30.
+This devops engineer position at DXC Technology was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

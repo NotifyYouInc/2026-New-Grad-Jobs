@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Dover, Delaware, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Dover-NH/Clinical-Systems-Engineer_RQ4049902-1) |
 
 ## About This Role
 
-This software engineer position at Mass General Brigham was posted on 2026-01-29.
+This devops engineer position at Mass General Brigham was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138884030069121734-software-engineer-i-health-site-reliability-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-01-30.
+This devops engineer position at Google was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

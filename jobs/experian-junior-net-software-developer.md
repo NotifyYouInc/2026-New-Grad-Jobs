@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000106361385-junior-net-software-developer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-01-29.
+This devops engineer position at Experian was posted on 2026-01-29.
 
 ## Get Real-Time Alerts
 

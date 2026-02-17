@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Hyve Solutions](https://scoutify.ai/companies/hyve-solutions?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Olive Branch, Mississippi, United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-29 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Quality-Training-Specialist-Level-I-swing_R47207) |
 

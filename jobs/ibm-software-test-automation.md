@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-01-30 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88971) |
 
