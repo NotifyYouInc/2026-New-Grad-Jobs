@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
-| Location | Quebec, CA |
+| Location | Canada |
 | Category | Business Development |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Adjoint-ou-adjointe-clientle--Gestion-prive-Desjardins_R2601430) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Soutien-aux-ventes-et-au-dveloppement-des-affaires_R2601501) |
 
 ## About This Role
 
-This business development position at Desjardins was posted on 2026-01-29.
+This business development position at Desjardins was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

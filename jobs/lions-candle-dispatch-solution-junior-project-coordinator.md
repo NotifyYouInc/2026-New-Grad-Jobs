@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Project Manager |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000106286032-junior-project-coordinator) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000106457875-junior-project-coordinator) |
 
 ## About This Role
 
-This project manager position at Lions Candle-Dispatch Solution was posted on 2026-01-29.
+This project manager position at Lions Candle-Dispatch Solution was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011412006-faculty-support-specialist) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011441617-faculty-support-specialist) |
 
 ## About This Role
 
-This customer success position at Harvard University was posted on 2026-01-29.
+This customer success position at Harvard University was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

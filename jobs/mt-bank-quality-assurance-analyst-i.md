@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | New York, US |
 | Category | Operations |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Quality-Assurance-Analyst-I_R82574-1) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Quality-Assurance-Analyst-I_R82588) |
 
 ## About This Role
 
-This operations position at M&T Bank was posted on 2026-01-29.
+This operations position at M&T Bank was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

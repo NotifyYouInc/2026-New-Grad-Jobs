@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | London, England, United Kingdom |
 | Category | Business Development |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates-Dubai-Dubai/Sales-Development-Representative_JREQ197696) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Sales-Development-Representative_JREQ197951) |
 
 ## About This Role
 
-This business development position at Thomson Reuters was posted on 2026-01-29.
+This business development position at Thomson Reuters was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Analyst-I-Software-Engineering_51571622) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51570942) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-01-29.
+This software engineer position at DXC Technology was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

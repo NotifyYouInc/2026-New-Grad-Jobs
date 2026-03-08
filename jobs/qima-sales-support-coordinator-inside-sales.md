@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=new-grad-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Sales |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000106349756-sales-support-coordinator-inside-sales) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000106534745-sales-support-coordinator-inside-sales) |
 
 ## About This Role
 
-This sales position at QIMA was posted on 2026-01-29.
+This sales position at QIMA was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 
